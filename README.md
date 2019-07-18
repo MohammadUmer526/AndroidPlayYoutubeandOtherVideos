@@ -195,4 +195,4 @@ In last, method to create **Surface(non-Youtube's link)** and other methods onPa
  
  Using **Other Link**
  
- ![Other Url](https://i.ibb.co/tqbvFPX/Youtube-Link.png)
+ ![Other Url](https://i.ibb.co/hmPJk0G/device-2019-07-18-154515.png)
